@@ -6,6 +6,15 @@ Here is new BETA Map what we starting testing. Map not yet have all feature what
 
 BETA Map is here: https://www.cellmapper.net/testmap/
 
+## Feature List
+
+* OpenStreetMap + Leaflet
+* ESRI
+* Bing Map
+
+Check Full Changelog here: https://github.com/CellMapper/Map-BETA/blob/master/CHANGELOG.md
+
+
 ## Feature Request
 
 Please open all feature request on Issue tab. 
