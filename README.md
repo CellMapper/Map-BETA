@@ -11,6 +11,11 @@ BETA Map is here: https://www.cellmapper.net/testmap/
 * OpenStreetMap + Leaflet
 * ESRI
 * Bing Map
+* Tower moving on map
+* Basic + Advance info on BTS
+* MCC/MNC selection
+* Get locations from browser (need allow this)
+* Login working on map with new login system
 
 Check Full Changelog here: https://github.com/CellMapper/Map-BETA/blob/master/CHANGELOG.md
 
