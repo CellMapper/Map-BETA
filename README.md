@@ -10,7 +10,7 @@ BETA Map is here: https://www.cellmapper.net/testmap/
 
 Please open all feature request on Issue tab. 
 
-We will implement mostly old map features on few weeks / month to new map so please don't open feature request if feature already available on old map. 
+We will implement mostly old map features on few weeks / months to new map so please don't open feature request if feature already available on old map. 
 
 ## Bug 
 
