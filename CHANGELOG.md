@@ -3,7 +3,13 @@
 ## 19.7.2017
 
 * Added Heatmap
-* Added search location on map
+* Added location searching
+* Different icon for inaccurate towers
+* Orange marker for unverified towers
+* Changed layers labels
+* Get MCC by location if no MCC selected
+* Move the map to the righ country when MCC is selected
+* Added Geolocation
 
 
 ## 19.7.2017 - First Public BETA
@@ -14,6 +20,5 @@
 * Tower moving on map with latitude + Longitude info
 * Basic + Advance info on BTS
 * MCC/MNC selection
-* Get locations from browser (need allow this)
 * Login working on map with new login system
-* Design changes on options menu
+* Re-design provider selection to modal dialog
