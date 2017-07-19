@@ -1,5 +1,7 @@
 # Map-BETA
 
+![CellMapper BETA MAP](https://i.imgur.com/DwU3ZXk.png)
+
 Here is new BETA Map what we starting testing. Map not yet have all feature what old map have. 
 
 BETA Map is here: https://www.cellmapper.net/testmap/
