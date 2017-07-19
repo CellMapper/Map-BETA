@@ -1,5 +1,10 @@
 # Changelog
 
+## 19.7.2017
+
+* Added Heatmap
+* Added search location on map
+
 
 ## 19.7.2017 - First Public BETA
 
