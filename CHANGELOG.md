@@ -6,7 +6,7 @@
 * OpenStreetMap + Leaflet
 * ESRI
 * Bing Map
-* Tower moving on map
+* Tower moving on map with latitude + Longitude info
 * Basic + Advance info on BTS
 * MCC/MNC selection
 * Get locations from browser (need allow this)
