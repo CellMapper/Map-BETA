@@ -1,4 +1,4 @@
-# Baisc Informations
+# Basic Info
 
 * Browser Name and Version: Chrome 50
 * Operating System: Windows 10
