@@ -1,5 +1,10 @@
 # Changelog
 
+## 20.7.2017
+
+* URL Beutify
+* Map Full Screen Mode
+
 ## 19.7.2017
 
 * Added Heatmap
