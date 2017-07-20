@@ -4,6 +4,7 @@
 
 * URL Beutify
 * Map Full Screen Mode
+* Make tower layer optional
 
 ## 19.7.2017
 
