@@ -5,7 +5,8 @@
 * Allow disabling clustering on high zoom levels
 * Click removes all coverage polygons, right click removes the clicked one
 * Add random per-band colors to coverage polygons
-* Fixed bug on First Seen ´+ Last Seen date on Firefox / IE / Safari
+* Fixed bug on First Seen + Last Seen date on Firefox / IE / Safari
+* Small fix bug fixes
 
 ## 20.7.2017
 
