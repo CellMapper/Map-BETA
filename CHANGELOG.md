@@ -1,5 +1,11 @@
 # Changelog
 
+## 21.7.2017
+
+* Allow disabling clustering on high zoom levels
+* Click removes all coverage polygons, right click removes the clicked one
+* Add random per-band colors to coverage polygons
+
 ## 20.7.2017
 
 * URL Beutify
