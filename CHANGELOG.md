@@ -1,5 +1,9 @@
 # Changelog
 
+## 23.7.2017
+
+* Added Gravitar profile picture on navbar
+
 ## 21.7.2017
 
 * Allow disabling clustering on high zoom levels
