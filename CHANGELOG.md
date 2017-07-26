@@ -1,5 +1,20 @@
 # Changelog
 
+## 26.7.2017
+
+* Add all maps to navbar
+
+## 25.7.2017
+
+* Add landing page with country flags
+* Fade eNB ID when dragging a tower
+* Add flags o map MCC selectro
+
+## 24.7.2017
+
+* Change the dropdown module used in MCC/MNC/RAT selection
+* Sort MNC list
+
 ## 23.7.2017
 
 * Added Gravitar profile picture on navbar
