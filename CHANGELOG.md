@@ -1,5 +1,10 @@
 # Changelog
 
+## 27.7.2017
+
+* More filters
+* Add an option to show only own countributions
+
 ## 26.7.2017
 
 * Add all maps to navbar
