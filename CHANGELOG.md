@@ -1,5 +1,11 @@
 # Changelog
 
+## 13.8.2017
+
+* Show tower coverage when hovering with mouse
+* Add band selection
+* Do not restric zoom while dragging
+
 ## 27.7.2017
 
 * More filters
